@@ -1,0 +1,11 @@
+# Directorio privado (no se subirá a GitHub)
+privado/
+/privado/
+
+# Archivos de configuración sensible o credenciales
+.env
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
