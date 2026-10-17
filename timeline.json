@@ -49,10 +49,13 @@
       "start_date": {
         "year": "1975"
       },
-      "display_date": "1975",
+      "end_date": {
+        "year": "1978"
+      },
+      "display_date": "1975-1978",
       "text": {
         "headline": "La batalla de formatos: Óptico vs. Aguja",
-        "text": "La revista Technology Review (MIT) analiza la fase de prototipos previa al lanzamiento comercial y la pugna entre el sistema óptico por láser de Philips-MCA (1.800 rpm) y el capacitivo por aguja de RCA (450 rpm). El formato óptico destaca por la ausencia de desgaste, la congelación de fotogramas y el concepto de narrowcasting, anticipando promesas industriales que tardarían tres años en llegar al mercado."
+        "text": "Previo al lanzamiento comercial se produce una pugna entre el sistema óptico por láser de Philips-MCA (1.800 rpm) y el capacitivo por aguja de RCA (450 rpm) denominado SelectaVision. El formato óptico destaca por la ausencia de desgaste, la congelación de fotogramas y el concepto de narrowcasting, anticipando promesas industriales que tardarían tres años en llegar al mercado."
       },
       "media": {
         "url": "page9.jpg",
@@ -69,7 +72,7 @@
       "display_date": "1978",
       "text": {
         "headline": "Lanzamiento comercial de DiscoVision",
-        "text": "Sale al mercado estadounidense el reproductor Magnavox VH-8000 bajo la marca DiscoVision, primer dispositivo comercial de lectura óptica de 30 cm de diámetro."
+        "text": "Se comercializa el reproductor Magnavox Magnavision VH-8000 junto con el catálogo de películas MCA DiscoVision, marcando el primer lanzamiento comercial de vídeo óptico. Pese a la innovación, los severos problemas de fabricación y deterioro de los discos de MCA dañaron la reputación inicial de la marca."
       },
       "media": {
         "url": "https://i.pinimg.com/736x/27/1f/03/271f03df2351f47933dd7b59f6c31773.jpg",
@@ -85,8 +88,8 @@
       },
       "display_date": "1980",
       "text": {
-        "headline": "Estandarización CAV/CLV y lanzamiento del Pioneer VP-1000",
-        "text": "Se estandarizan los modos de Velocidad Angular Constante (CAV), que introdujo el acceso aleatorio directo a 54.000 fotogramas por cara, y Velocidad Lineal Constante (CLV), dando lugar al modelo comercial más fiable: el Pioneer VP-1000"
+        "headline": "Estandarización CAV/CLV, LaserVision y marca LaserDisc",
+        "text": "Pioneer asume el liderazgo industrial, estandarizando los modos de Velocidad Angular Constante (CAV, acceso aleatorio a 54.000 fotogramas) y Velocidad Lineal Constante (CLV) establece junto a Philips el estándar unificado LaserVision. Para distanciar el formato del estigma de DiscoVision, Pioneer impulsa la marca comercial LaserDisc con el reproductor Pioneer VP-1000." 
       },
       "media": {
         "url": "https://flashbak.com/wp-content/uploads/2015/12/flashbakdevo21.jpg",
@@ -120,7 +123,7 @@
       "display_date": "1984",
       "text": {
         "headline": "Nacimiento de la Criterion Collection",
-        "text": "The Voyager Company publica King Kong en LaserDisc e inaugura la Criterion Collection, inventando las pistas de comentarios del director y las galerías de imágenes."
+        "text": "The Voyager Company publica King Kong en LaserDisc e inaugura su Criterion Collection, inventando las pistas de comentarios del director y materiales de valor para los cinéfilos, tales como comentarios en audio de los directores, documentales de cómo se hizo la película, entrevistas, etc."
       },
       "media": {
         "url": "s-l1600.webp",
@@ -136,8 +139,8 @@
       },
       "display_date": "1986",
       "text": {
-        "headline": "El proyecto interactivo BBC Domesday System",
-        "text": "La BBC y Acorn Computers desarrollan el Domesday System en formato LV-ROM, combinando datos informáticos digitales con vídeo analógico para almacenar mapas y documentos. (<a href=\"https://www.ariadne.ac.uk/issue/36/tna/\" target=\"_blank\">Artículo : Domesday Redux: El rescate de los videodiscos del Proyecto Domesday de la BBC</a>). "
+        "headline": "El proyecto interactivo BBC Domesday System y el formato LV-ROM",
+        "text": "La BBC y Acorn Computers desarrollan el Domesday System utilizando el formato LV-ROM, una innovación técnica capaz de almacenar datos informáticos digitales (hasta 324 MB por cara) combinados con vídeo analógico, sentando el precedente directo de los sistemas hipermedia informáticos (<a href=\"https://www.ariadne.ac.uk/issue/36/tna/\" target=\"_blank\">ver reportaje en Ariadne</a>)."
       },
       "media": {
         "url": "https://www.ariadne.ac.uk/images/issue36-tna/armstrong-tycake.jpg",
@@ -175,7 +178,7 @@
       },
       "media": {
         "url": "coleccion-animales.jpg",
-        "credit": "Editorial Planeta / Plaza & Janés",
+        "credit": "Fotografía de archivo particular / Editorial Planeta",
         "caption": "Colección El mundo de los animales y su medio ambiente",
         "alt": "Estuche de la colección de 20 videodiscos LaserDisc"
       },
@@ -183,9 +186,12 @@
     },
     {
       "start_date": {
-        "year": "1995"
+        "year": "1993"
       },
-      "display_date": "1995",
+      "end_date": {
+        "year": "1996"
+      },
+      "display_date": "1993-1996",
       "text": {
         "headline": "Hegemonía del CD-ROM y llegada del estándar DVD",
         "text": "El éxito masivo del CD-ROM con enciclopedias interactivas como Microsoft Encarta y la llegada del DVD-Video de 12 cm con compresión MPEG-2 desplazaron al LaserDisc, hasta el punto de que los fabricantes se decantaron por soluciones mixtas LaserDisc/CD y más tarde DVD para facilitar la transición en el hogar."
