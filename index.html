@@ -17,6 +17,37 @@
             width: 100%;
             height: 100vh;
         }
+        .tl-media-image {
+            max-height: 380px !important;
+            object-fit: contain !important;
+        }
+        /* Capa superpuesta para el lightbox */
+            .lightbox-overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100vw;
+                height: 100vh;
+                background-color: rgba(0, 0, 0, 0.88);
+                z-index: 999999;
+                justify-content: center;
+                align-items: center;
+                cursor: zoom-out;
+            }
+
+            .lightbox-overlay img {
+                max-width: 90vw;
+                max-height: 90vh;
+                object-fit: contain;
+                border-radius: 4px;
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            }
+
+            /* Indicar al usuario que las imágenes se pueden ampliar */
+            .tl-media-image {
+                cursor: zoom-in !important;
+            }
     </style>
     <!-- Estilos oficiales de Timeline.js -->
     <link rel="stylesheet" href="timeline.css">  
@@ -29,5 +60,21 @@
     <script type="text/javascript">
         window.timeline = new TL.Timeline('timeline-embed', 'timeline.json');
     </script>
+    <!-- Contenedor oculto del lightbox -->
+    <div id="lightbox" class="lightbox-overlay" onclick="this.style.display='none'">
+    <img id="lightbox-img" src="" alt="Ampliación de imagen">
+    </div>
+            <script>
+        // Delegación de eventos para detectar clics en imágenes cargadas dinámicamente
+        document.addEventListener('click', function (e) {
+            const imagen = e.target.closest('#timeline-embed img');
+            if (imagen) {
+            const lightbox = document.getElementById('lightbox');
+            const lightboxImg = document.getElementById('lightbox-img');
+            lightboxImg.src = imagen.src;
+            lightbox.style.display = 'flex';
+            }
+        });
+        </script>
 </body>
 </html>
