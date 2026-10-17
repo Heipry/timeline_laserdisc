@@ -1,0 +1,219 @@
+{
+  "title": {
+    "media": {
+      "url": "pioneer_vp1000.jpg",
+      "caption": "Reproductor de LaserDisc Pioneer VP-1000 y videodisco óptico de 12 pulgadas.",
+      "credit": "Pioneer Electronics"
+    },
+    "text": {
+      "headline": "Evolución Técnica y Cultural del LaserDisc",
+      "text": "Una cronología interactiva sobre el nacimiento, apogeo y legado del primer formato de almacenamiento óptico de la historia."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1961"
+      },
+      "display_date": "1961",
+      "text": {
+        "headline": "Patente de la lectura óptica analógica",
+        "text": "David Paul Gregg registra la patente del disco óptico transparente (Transducer system for video signals), sentando las bases físicas de la lectura por haz de luz sin contacto mecánico."
+      },
+      "media": {
+        "url": "https://patentimages.storage.googleapis.com/fa/02/30/d09d12e8ba05c8/US3430966-drawings-page-1.png",
+        "credit": "Google Patents",
+        "caption": "Esquema original de la patente de David Paul Gregg",
+        "alt": "Diagrama técnico del disco óptico transparente"
+      },
+      "group": "Hardware"
+    },
+    {
+      "start_date": {
+        "year": "1972"
+      },
+      "display_date": "1972",
+      "text": {
+        "headline": "Demostración industrial de MCA y Philips",
+        "text": "Las multinacionales MCA y Philips presentan conjuntamente en Los Ángeles la primera demostración funcional del videodisco por láser para el entorno doméstico."
+      },
+      "media": {
+        "url": "https://www.totalrewind.org/disc/disc_opt/photos/dsc_dv72.jpg",
+        "credit": "Archivo histórico Philips / MCA",
+        "caption": "Presentación del prototipo de videodisco",
+        "alt": "Prototipo de reproductor de videodisco analógico"
+      },
+      "group": "Empresas"
+    },
+    {
+      "start_date": {
+        "year": "1975"
+      },
+      "display_date": "1975",
+      "text": {
+        "headline": "La batalla de formatos: Óptico vs. Aguja",
+        "text": "La revista Technology Review (MIT) analiza la fase de prototipos previa al lanzamiento comercial y la pugna entre el sistema óptico por láser de Philips-MCA (1.800 rpm) y el capacitivo por aguja de RCA (450 rpm). El formato óptico destaca por la ausencia de desgaste, la congelación de fotogramas y el concepto de narrowcasting, anticipando promesas industriales que tardarían tres años en llegar al mercado."
+      },
+      "media": {
+        "url": "page9.jpg",
+        "credit": "Photo courtesy of Philips-MCA / MIT Technology Review (1975)",
+        "caption": "Página impresa del artículo Round and round they go en Technology Review (1975) sobre la fase de prototipos.",
+        "alt": "Escaneo de la página del artículo impreso con la fotografía del prototipo de reproductor de videodisco."
+      },
+      "group": "Empresas"
+    },
+    {
+      "start_date": {
+        "year": "1978"
+      },
+      "display_date": "1978",
+      "text": {
+        "headline": "Lanzamiento comercial de DiscoVision",
+        "text": "Sale al mercado estadounidense el reproductor Magnavox VH-8000 bajo la marca DiscoVision, primer dispositivo comercial de lectura óptica de 30 cm de diámetro."
+      },
+      "media": {
+        "url": "https://i.pinimg.com/736x/27/1f/03/271f03df2351f47933dd7b59f6c31773.jpg",
+        "credit": "Magnavox / DiscoVision",
+        "caption": "Reproductor Magnavox VH-8000 DiscoVision",
+        "alt": "DiscoVision Magnavox VH-8000"
+      },
+      "group": "Hardware"
+    },
+    {
+      "start_date": {
+        "year": "1980"
+      },
+      "display_date": "1980",
+      "text": {
+        "headline": "Estandarización CAV/CLV y lanzamiento del Pioneer VP-1000",
+        "text": "Se estandarizan los modos de Velocidad Angular Constante (CAV), que introdujo el acceso aleatorio directo a 54.000 fotogramas por cara, y Velocidad Lineal Constante (CLV), dando lugar al modelo comercial más fiable: el Pioneer VP-1000"
+      },
+      "media": {
+        "url": "https://flashbak.com/wp-content/uploads/2015/12/flashbakdevo21.jpg",
+        "credit": "Pioneer Electronic Corp.",
+        "caption": "Anuncio publicitario original del Pioneer VP-1000 (1980), mostrando el reproductor de carga superior con un videodisco introducido y su mando a distancia inalámbrico.",
+        "alt": "Fotografía del reproductor óptico Pioneer VP-1000 lanzado en 1980. Tecnología / Hardware"
+      },
+      "group": "Hardware"
+    },
+    {
+      "start_date": {
+        "year": "1983"
+      },
+      "display_date": "1983",
+      "text": {
+        "headline": "Vídeo interactivo en recreativas: Dragon's Lair",
+        "text": "Don Bluth y Rick Dyer lanzan el videojuego Dragon's Lair con Cinematronics, integrando un reproductor LaserDisc que ejecuta animación según la respuesta en tiempo real del jugador."
+      },
+      "media": {
+        "url": "https://i.redd.it/bfxc4vmm22lf1.jpeg",
+        "credit": "Cinematronics / Don Bluth Studios",
+        "caption": "Mueble arcade original del videojuego Dragon's Lair",
+        "alt": "Recreativa arcade de Dragon's Lair"
+      },
+      "group": "Videojuegos"
+    },
+    {
+      "start_date": {
+        "year": "1984"
+      },
+      "display_date": "1984",
+      "text": {
+        "headline": "Nacimiento de la Criterion Collection",
+        "text": "The Voyager Company publica King Kong en LaserDisc e inaugura la Criterion Collection, inventando las pistas de comentarios del director y las galerías de imágenes."
+      },
+      "media": {
+        "url": "s-l1600.webp",
+        "credit": "The Voyager Company",
+        "caption": "Edición Criterion Collection de King Kong en LaserDisc",
+        "alt": "Contraportada del disco de King Kong Criterion Collection"
+      },
+      "group": "Formato"
+    },
+    {
+      "start_date": {
+        "year": "1986"
+      },
+      "display_date": "1986",
+      "text": {
+        "headline": "El proyecto interactivo BBC Domesday System",
+        "text": "La BBC y Acorn Computers desarrollan el Domesday System en formato LV-ROM, combinando datos informáticos digitales con vídeo analógico para almacenar mapas y documentos."
+      },
+      "media": {
+        "url": "https://www.ariadne.ac.uk/images/issue36-tna/armstrong-tycake.jpg",
+        "credit": "BBC / Acorn Computers",
+        "caption": "Equipo completo del proyecto BBC Domesday System",
+        "alt": "Consola y reproductor BBC Domesday"
+      },
+      "group": "Software educativo"
+    },
+    {
+      "start_date": {
+        "year": "1987"
+      },
+      "display_date": "1987",
+      "text": {
+        "headline": "Integración con Apple HyperCard y LaserStacks",
+        "text": "La herramienta HyperCard de Apple permite controlar reproductores de LaserDisc mediante scripts LaserStacks, convirtiendo al disco en una interfaz cultural en pantalla."
+      },
+      "media": {
+        "url": "https://www.journaldulapin.com/wp-content/uploads/2019/01/LaserDisc.png",
+        "credit": "Apple Computer / Bantam Books",
+        "caption": "Interfaz gráfica del entorno HyperCard en Mac OS",
+        "alt": "Captura de pantalla de Apple HyperCard"
+      },
+      "group": "Software"
+    },
+    {
+      "start_date": {
+        "year": "1992"
+      },
+      "display_date": "1992-1993",
+      "text": {
+        "headline": "Divulgación doméstica: El mundo de los animales",
+        "text": "Comercialización en España de la obra El mundo de los animales y su medio ambiente (20 LaserDisc), facilitando la entrada del formato en las casas al vincular la compra de los discos al reproductor."
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/Heipry/recursos_compartidos/refs/heads/main/coleccion-animales.jpg",
+        "credit": "Editorial Planeta / Plaza & Janés",
+        "caption": "Colección El mundo de los animales y su medio ambiente",
+        "alt": "Estuche de la colección de 20 videodiscos LaserDisc"
+      },
+      "group": "Adopción doméstica"
+    },
+    {
+      "start_date": {
+        "year": "1995"
+      },
+      "display_date": "1995",
+      "text": {
+        "headline": "Hegemonía del CD-ROM y llegada del estándar DVD",
+        "text": "El éxito masivo del CD-ROM con enciclopedias como Microsoft Encarta y la llegada del DVD-Video de 12 cm con compresión MPEG-2 desplazaron definitivamente al LaserDisc."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LDDVDComparison-mod.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credit": "Archivo tecnológico",
+        "caption": "Comparativa de tamaño entre un LaserDisc de 30 cm y un DVD de 12 cm",
+        "alt": "Disco LaserDisc junto a un disco compacto de 12 cm"
+      },
+      "group": "Obsolescencia"
+    },
+    {
+      "start_date": {
+        "year": "2009"
+      },
+      "display_date": "2009",
+      "text": {
+        "headline": "Cese definitivo de fabricación por Pioneer",
+        "text": "Pioneer produce las últimas 3.000 unidades de reproductores de LaserDisc (modelo DVL-919), cerrando oficialmente el ciclo comercial del formato y consolidando su legado (<a href=\"https://global.pioneer/en/corp/news/press/index/1380/\" target=\"_blank\">ver nota de prensa oficial de Pioneer</a>)."
+      },
+      "media": {
+        "url": "https://recordmarthifi.com/cdn/shop/files/CF07F1E4-985E-4B20-BEE9-CDDC695229D7_1_201_a.heic?v=1713152529&width=2000",
+        "credit": "Pioneer Corporation",
+        "caption": "Modelo Pioneer DVL-919, el último reproductor fabricado",
+        "alt": "Reproductor combinado Pioneer DVL-919"
+      },
+      "group": "Obsolescencia"
+    }
+  ]
+}
