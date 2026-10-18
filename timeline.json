@@ -7,18 +7,21 @@
     },
     "text": {
       "headline": "Evolución Técnica y Cultural del LaserDisc",
-      "text": "Una cronología interactiva sobre el nacimiento, apogeo y legado del primer formato de almacenamiento óptico de la historia."
+      "text": "Una cronología interactiva sobre el nacimiento, la evolución y el legado del LaserDisc, uno de los primeros formatos comerciales de videodisco óptico."
     }
   },
   "events": [
     {
       "start_date": {
-        "year": "1961"
+        "year": "1958"
       },
-      "display_date": "1961",
+      "end_date": {
+        "year": "1969"
+      },
+      "display_date": "1958 -1969",
       "text": {
-        "headline": "Patente de la lectura óptica analógica",
-        "text": "David Paul Gregg registra la patente del disco óptico transparente (Transducer system for video signals), sentando las bases físicas de la lectura por haz de luz sin contacto mecánico."
+        "headline": "Concepción de la lectura óptica",
+        "text": "David Paul Gregg desarrolla los conceptos de un sistema de reproducción de vídeo mediante un haz de luz sin contacto mecánico. El inventor presenta la patente del sistema transductor (Transducer system for video signals) en 1962 y la del disco óptico transparente (Transparent recording disc) en 1967, concedida oficialmente en 1969. Este conjunto de innovaciones sentó las bases físicas de los futuros soportes ópticos."
       },
       "media": {
         "url": "US3430966-drawings-page-1.png",
